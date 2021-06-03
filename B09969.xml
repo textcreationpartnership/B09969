@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advertisement, anent stollen goods in the shires under-written. Edinburgh, the twenty sixth day of February, 1672.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09969</idno><idno type="EEBO-CITATION">69648893</idno>
+  <idno type="VID">185054</idno>
+  <idno type="EEBO-PROQUEST">2248532663</idno>
+  
+            <idno type="STC">Wing S1476</idno>
+            <idno type="STC">ESTC R183041</idno>
+            <idno type="OCLC">69648893</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185054)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2885:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advertisement, anent stollen goods in the shires under-written. Edinburgh, the twenty sixth day of February, 1672.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the Kings Most Excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: "Al. Gibson, Cl. Sti Concilii."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Crime --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Criminals --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Theft --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1660-1688.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185054:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT Q UI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>ADVERTISEMENT, Anent Stollen Goods in the Shires under-written.</head>
+            <opener>
+               <dateline>
+                  <hi>EDINBURGH,</hi>
+                  <date>the twenty sixth day of <hi>February,</hi> 1672.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as the Lords of His Majesties Privy Council have granted Commission untill the first day of <hi>January</hi> next, in the year of God, one thousand six hundred and seventy three, to Sir <hi>James Campbel</hi> of <hi>Lawers,</hi> to pursue, apprehend and bring to Justice all Theeves and broken Men, haunting and resorting within the Shires of <hi>Inverness</hi> on the south side of <hi>Ness, Nairn, Murray, Bamff, Aberdeen, Mearns, Angus, Perth, Argile, Clackmannan, Monteith, Stirling</hi> and <hi>Dumbartoun;</hi> and that the said Sir <hi>James</hi> is oblieged, when any Theft is committed within the saids Shires, either to restore the Goods, or the true prices thereof, without payment of money or composition; or otherwayes to apprehend the Theeves and bring them to Justice: Providing, that within five dayes after committing of the Theft, intimation be given to the said Sir <hi>James</hi> himself, or at the Town of <hi>Dumblane</hi> to <hi>Alexander Cheisholm</hi> Bailiff thereof; at <hi>Perth</hi> to <hi>John Stewart</hi> Merchant Burgess there; at <hi>Straphillan,</hi> to <hi>Duncan Campbel</hi> in <hi>Ochtertyre;</hi> at <hi>Castletoun</hi> in <hi>Brae of Mar</hi> to <hi>John Mackenʒie</hi> in <hi>Castletoun;</hi> and at <hi>Ruthven</hi> to <hi>Badʒenoch</hi> to <hi>Alexander Cumming</hi> Nottar there; or at the saids persons their dwelling-houses in the saids places, who are appointed to remain there to receive intimations. These are therefore to give Advertisement to all persons concerned, That when any Theft happens to be committed within the bounds above-written, they may give timeous notice thereof as aforesaid. Likeas, all Landlords, Chief<g ref="char:EOLhyphen"/>tains of Clans and others his Majesties Subjects, are to concur with the said Sir <hi>James</hi> in execution of his Commission; which is granted, but prejudice or deroga<g ref="char:EOLhyphen"/>tion in any sort from the Bonds given for securing the Peace. And it is ordered, That these presents be printed, and that the Sheriffs of the several Shires foresaid cause publish the same at the several Mercat-crosses and Paroch-churches within these Shires, that all persons concerned may have notice.</p>
+            <closer>
+               <signed>
+                  <hi>Al. Gibson,</hi> Cl. S<seg rend="sup">ti</seg> Concilii.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBƲRGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings most Excellent Majesty, 1672.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
